@@ -1,0 +1,12 @@
+.modal-body label {
+    font-weight: bold;
+}
+
+.order-items {
+    display: flex;
+    flex-direction: column;
+}
+
+.order-items span {
+    font-weight: bold;
+}
